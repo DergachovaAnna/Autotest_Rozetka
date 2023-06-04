@@ -1,2 +1,2 @@
 # Autotest_Rozetka
-UI autotests 
+UI autotests for rozetka.ua
